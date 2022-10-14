@@ -1,7 +1,6 @@
 {
-  "name": "pure-functions",
+  "name": "matchers",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
@@ -28,9 +27,11 @@
     "eslint": "^8.25.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "jest": "^29.1.2",
-    "jest-babel": "^1.0.1"
+    "jest-babel": "^1.0.1",
+    "lodash": "^4.17.21"
   },
   "dependencies": {
     "core-js": "^3.25.5"
-  }
+  },
+  "description": ""
 }
